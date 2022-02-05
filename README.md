@@ -1,3 +1,7 @@
+# Next.js - portfolio (basic)
+
+> New portfolio made with Next.js for portfolio website: rolandlevy.co.uk
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
