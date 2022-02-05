@@ -2,6 +2,14 @@
 
 > New portfolio made with Next.js for portfolio website: rolandlevy.co.uk
 
+- [Live version hosted by Vercel](https://nextjs-portfolio-basic.vercel.app/)
+- [Source code on repl.it](https://replit.com/@RolandJLevy/nextjs-portfolio-basic)
+- [Github repo](https://github.com/rolandjlevy/nextjs-portfolio-basic)
+
+---
+
+## Default instructions for Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
