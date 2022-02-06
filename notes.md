@@ -7,6 +7,7 @@
 
 ## Markdown node packages
 
+- https://nextjs.org/blog/markdown
 - https://github.com/vercel/next.js/tree/canary/examples/with-mdx
 - https://www.npmjs.com/package/markdown-to-jsx
 - https://mdxjs.com/
